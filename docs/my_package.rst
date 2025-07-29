@@ -1,5 +1,6 @@
-Testing
-===================
+my_package.asdf module
+---------------------------------
 
-.. autosummary::
-   :toctree: generated
+.. automodule:: my_package.asdf
+   :members:
+   :show-inheritance:
